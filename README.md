@@ -1,2 +1,2 @@
 # Titanic Classification prediction 
-Random Forest Prediction for Titanic crew members
+A shiny app predicting the survival likelihood of the titanic crew
